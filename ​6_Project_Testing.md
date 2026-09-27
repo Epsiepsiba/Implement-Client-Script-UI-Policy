@@ -150,7 +150,8 @@ The test should also verify the other High Impact behaviors:
 
 The project document specifically identifies successful saving after providing Assigned To as one of the testing scenarios.
 
-<img width="1365" height="606" alt="tc2" src="https://github.com/user-attachments/assets/7486f3fe-554b-4eb8-89e1-6344d94a4923" />
+
+<img width="1365" height="606" alt="tc2" src="https://github.com/user-attachments/assets/013d1799-20ed-4091-b7ed-c3596cef9ebc" />
 
 
 ---
