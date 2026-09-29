@@ -9,7 +9,7 @@ This phase documents the visual verification and end-to-end demonstration of the
 
 Click the link below to watch the complete project demonstration:
 
-* 🎥 *[Watch Project Demo Video](https://drive.google.com/file/d/1NWJUzRl8yYj56_8D9qouSoYdXeOOhagm/view?usp=sharing)*
+* 🎥 *[Watch Project Demo Video](https://drive.google.com/file/d/1h2Mf7w75f-UqcxxNamk7hY3MOUME45UH/view?usp=sharing)*
 
 ---
 
